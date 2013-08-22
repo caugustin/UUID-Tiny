@@ -1,4 +1,4 @@
-UUID-Tiny Version 1.03
+UUID-Tiny Version 1.04
 
 This is a Pure Perl module for the creation of UUIDs:
 
@@ -63,7 +63,7 @@ You can also look for information at:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2009, 2010 Christian Augustin
+Copyright (C) 2009, 2010, 2013 Christian Augustin
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.

@@ -1,6 +1,6 @@
 Revision history for UUID-Tiny
 
-1.04    2013-08-19, caugustin.de
+1.04    2013-08-22, caugustin.de
         Fixed typos from bug report #87187.
         Rejected bug report #83073 (UUID::Tiny correctly sets the variant).
         Thread-tests still not running (Mac OS X 10.8.x and other machines).
